@@ -1,0 +1,8 @@
+1 .¿De dónde sale la etiqueta Navigation?
+    Del archivo ./Navigation que se especifica al inicio del archivo
+
+2. ¿Como se recibieron los dos parámetros?
+    Al colocarlos en la siguiente linea <Navigation srcImg={logo} alt="Logo" items={navigationItems}/>
+
+3. ¿Donde se importan los archivos css, las imagenes y cómo es que se importa un componente?
+Se importan a través de los imports app.css, grid.css y en el logo con react.svg. En el caso de como lo realiza el componente es a través de la propiedad 
